@@ -1,0 +1,4 @@
+<FilesMatch "\.js$">
+    ForceType application/javascript
+    Header set Content-Disposition inline
+</FilesMatch>
