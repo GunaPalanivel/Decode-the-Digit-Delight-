@@ -22,10 +22,6 @@ Welcome to the **Decode the Digit Delight** game! This simple number guessing ga
 - CSS (with [Press Start 2P](https://fonts.googleapis.com/css?family=Press+Start+2P&display=swap) font)
 - JavaScript
 
-## Designed and Developed by
-
-**Guna Palanivel**
-
 ## Acknowledgments
 
 Special thanks to the developers and designers who inspire us every day!
@@ -34,12 +30,18 @@ Feel free to contribute and make this game even better!
 
 ---
 
-**Designed and developed by Guna Palanivel**
-
---------
-
 ### WIP: Developer will work on this project later
 
- Message from the console
- ```bash
- decode-the-digit-delight.pages.dev/:1 Refused to execute script from 'https://decode-the-digit-delight.pages.dev/script.js' because its MIME type ('text/html') is not executable, and strict MIME type checking is enabled.
+Message from the console
+
+```bash
+decode-the-digit-delight.pages.dev/:1 Refused to execute script from 'https://decode-the-digit-delight.pages.dev/script.js' because its MIME type ('text/html') is not executable, and strict MIME type checking is enabled.
+```
+
+### Code Pen
+
+[Demo from Code Pen](https://codepen.io/Guna-Palanivel/pen/bGZdZPL)
+
+---
+
+**Designed and developed by Guna Palanivel**
