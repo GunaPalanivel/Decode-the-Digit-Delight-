@@ -35,3 +35,11 @@ Feel free to contribute and make this game even better!
 ---
 
 **Designed and developed by Guna Palanivel**
+
+--------
+
+### WIP: Developer will work on this project later
+
+ Message from the console
+ ```bash
+ decode-the-digit-delight.pages.dev/:1 Refused to execute script from 'https://decode-the-digit-delight.pages.dev/script.js' because its MIME type ('text/html') is not executable, and strict MIME type checking is enabled.
