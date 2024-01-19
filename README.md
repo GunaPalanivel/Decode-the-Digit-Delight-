@@ -38,9 +38,10 @@ Message from the console
 decode-the-digit-delight.pages.dev/:1 Refused to execute script from 'https://decode-the-digit-delight.pages.dev/script.js' because its MIME type ('text/html') is not executable, and strict MIME type checking is enabled.
 ```
 
-### Code Pen
+### Demo
 
 [Demo from Code Pen](https://codepen.io/Guna-Palanivel/pen/bGZdZPL)
+[Demo from Vercel](https://decode-the-digit-delight.vercel.app/)
 
 ---
 
