@@ -41,6 +41,8 @@ decode-the-digit-delight.pages.dev/:1 Refused to execute script from 'https://de
 ### Demo
 
 [Demo from Code Pen](https://codepen.io/Guna-Palanivel/pen/bGZdZPL)
+
+
 [Demo from Vercel](https://decode-the-digit-delight.vercel.app/)
 
 ---
