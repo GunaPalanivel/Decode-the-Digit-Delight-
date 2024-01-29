@@ -1,5 +1,3 @@
-"use strict";
-
 let secretNumber, score, highscore;
 
 const initGame = function () {
